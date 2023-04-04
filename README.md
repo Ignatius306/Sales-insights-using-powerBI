@@ -5,7 +5,8 @@
 1. [Problem Statement](#Problem-Statement)
 2. [AIMS report](#AIMS-report)
 3. [Data Set](#Data-Set)
-4. [Data Processing](#Data-Processing Using SQL)
+4. [Data Processing](#Data-Processing-Using-SQL)
+5. [Sales Insights using PowerBI](#Sales-Insights-using-PowerBI)
 
 ### Problem Statement
 Sales Director of AtliQ hardware finds difficulty in analysing the monthly report of production and sales. The objective is to create effective dashboard that tell
@@ -32,3 +33,9 @@ The data containing Transaction in USD are change into INR.
 <p align="center">
 <img src="https://github.com/Ignatius306/Sales-insights-using-powerBI/blob/main/image/sql-powerbi1.png"><br>Fig:SQL
 </p>
+
+### Sales Insights using PowerBI
+<p align="center">
+<img src="https://github.com/Ignatius306/Sales-insights-using-powerBI/blob/main/image/powerbi result.png"><br>Fig:PowerBI
+</p>
+
