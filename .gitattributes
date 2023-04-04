@@ -1,3 +1,2 @@
-$ cat .gitattributes
-*.rb linguist-language=Python
+*.pbix linguist-detectable=true
 
