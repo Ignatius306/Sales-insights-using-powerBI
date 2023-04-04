@@ -1,1 +1,3 @@
-*.js linguist-language=PowerBI
+$ cat .gitattributes
+*.rb linguist-language=Python
+
